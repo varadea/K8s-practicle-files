@@ -22,4 +22,4 @@ spec:
 
 # kubectl apply -f repilcaset.yml             
 # kubectl get rs
-# kubctle describe name 
+# kubectl describe name 
